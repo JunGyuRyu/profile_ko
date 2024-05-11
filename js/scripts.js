@@ -3,9 +3,6 @@
 * Copyright 2013-2023 Start Bootstrap
 * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE)
 */
-//
-// Scripts
-// 
 
 window.addEventListener('DOMContentLoaded', event => {
 
@@ -14,7 +11,8 @@ window.addEventListener('DOMContentLoaded', event => {
     if (sideNav) {
         new bootstrap.ScrollSpy(document.body, {
             target: '#sideNav',
-            rootMargin: '0px 0px -40%',
+            // rootMargin: '0px 0px -40%',
+            rootMargin: '0px 0px -45%',
         });
     };
 

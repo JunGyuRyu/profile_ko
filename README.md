@@ -1,1 +1,1 @@
-### profile repository for portfolio web (HTML)
+### profile repository for web portfolio (HTML)
